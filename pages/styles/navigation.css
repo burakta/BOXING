@@ -1,0 +1,26 @@
+nav {
+    background-color:rgba(0,0,0,.1);
+    height: auto;
+
+}
+.baslik {
+    color:red;
+    font-size:32px;
+    margin-left:15px;
+}
+
+[href] {
+    display:inline-block;
+    height:auto;
+    
+    width: auto;
+    color:white;
+    margin-left:75px;
+    font-size:24px;
+    padding:20px;
+    text-decoration: none;
+}
+[href]:hover {
+    background:#191c21;
+    
+}
