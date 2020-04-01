@@ -1,0 +1,26 @@
+#idmanarkadaşları {
+    text-align:left;
+    list-style: none;
+  }
+  
+  legend {
+    display: block;
+    padding-left: 2px;
+    padding-right: 2px;
+    border: none;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  
