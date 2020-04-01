@@ -32,7 +32,7 @@ function HomePage() {
                     müsabakalarda rahatlıkla uygulanabilecek çok değerli dersler çıkarılacaktır. İngilizce olmasına bakmayın, anlatılanlar
                     çizimlerle de gösterilmiş. Zaman bulabilsem türkçeye çevirmek istiyorum ancak yardımcı olabilecek sporsevelerin
                      tekliflerine de açığım.
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/rTSJqpOkgRo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/rTSJqpOkgRo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
             </li>
 
